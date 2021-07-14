@@ -159,6 +159,9 @@ if [ "$default_ssl_conf" != "default" ]; then
   fi
 fi
 
+# Enable mod_rewrite
+a2enmod rewrite
+
 echo "Here is your web file architecture."
 ls -l $webrootdocker
 

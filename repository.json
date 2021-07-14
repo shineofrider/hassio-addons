@@ -1,5 +1,5 @@
 {
-    "name": "FaserF Home Assistant Add-ons",
-    "url": "https://github.com/faserf/hassio-addons",
-    "maintainer": "FaserF"
-  }
+    "name": "Fork of FaserF Home Assistant Add-ons",
+    "url": "https://github.com/shineofrider/hassio-addons",
+    "maintainer": "Skyrider"
+}
